@@ -1,5 +1,5 @@
 ---
-title: hexo首页只显示部分摘要
+title: Hexo首页只显示部分摘要
 date: 2023-02-11 11:54:16
 description: hexo首页不显示全文
 tags:

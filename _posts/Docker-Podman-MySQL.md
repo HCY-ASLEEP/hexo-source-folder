@@ -1,7 +1,7 @@
 ---
 title: Docker(Podman) MySQL
 date: 2023-02-11 13:27:00
-description: Docker 上安装、启动 MySQL 
+description: Docker 安装、启动 MySQL 
 tags:
     - MySQL
     - Podman

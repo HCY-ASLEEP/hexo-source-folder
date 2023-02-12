@@ -1,7 +1,7 @@
 ---
 title: Arch Linux run sudo without passwd
 date: 2023-02-11 13:03:02
-description: Arch 免密登录
+description: Arch 免密 sudo
 tags:
     - Arch
     - Linux

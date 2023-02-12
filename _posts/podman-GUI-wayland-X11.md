@@ -1,10 +1,11 @@
 ---
-title: podman GUI wayland/X11
+title: Podman GUI Wayland/X11
 date: 2023-02-11 08:32:39
 description: 最简单的一种方法！
 tags:
     - Podman
     - Linux
+    - Wayland
 ---
 
     

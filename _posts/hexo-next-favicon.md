@@ -1,5 +1,5 @@
 ---
-title: hexo next favicon
+title: Hexo next favicon
 date: 2023-02-11 11:01:48
 description: 设置网站的图标
 tags:
