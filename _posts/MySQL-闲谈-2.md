@@ -488,3 +488,21 @@ undo log前面也提到了，它会记录修改数据之前的信息，事务中
 ###### 
 
 - MVCC原理即通过read view 以及undo log来实现
+
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="HCY-ASLEEP/HCY-ASLEEP.github.io"
+        data-repo-id="R_kgDOISFjNg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOISFjNs4CUJyb"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>

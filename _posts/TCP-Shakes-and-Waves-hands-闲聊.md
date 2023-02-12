@@ -443,3 +443,21 @@ TCP三次握手的过程其实就是在：确认通信双方（客户端和服�
 <div align="left"><div style="width: 60%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent black transparent transparent; border-width: 10px; position: absolute; top: 10px; left: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent white transparent transparent; border-width: 10px; position: absolute; top: 10px; left: -19px;"></span>
 好吧
 </div></div><br/>
+
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="HCY-ASLEEP/HCY-ASLEEP.github.io"
+        data-repo-id="R_kgDOISFjNg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOISFjNs4CUJyb"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>

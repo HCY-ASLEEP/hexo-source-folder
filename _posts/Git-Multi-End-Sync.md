@@ -73,3 +73,20 @@ tags:
     - 这种方式可以不用额外建立本地分支
 
 
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="HCY-ASLEEP/HCY-ASLEEP.github.io"
+        data-repo-id="R_kgDOISFjNg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOISFjNs4CUJyb"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>

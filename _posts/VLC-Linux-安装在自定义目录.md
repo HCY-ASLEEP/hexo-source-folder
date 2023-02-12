@@ -57,3 +57,19 @@ chmod a+x launch.sh
 这个脚本里面的 bash 变量是程序内部执行需要的变量，并不是环境变量，只有知道软件构建运行的源码才可以写出来，所以这个脚本并不是通用的，只适合 vlc
 
 
+
+<script src="https://giscus.app/client.js"
+        data-repo="HCY-ASLEEP/HCY-ASLEEP.github.io"
+        data-repo-id="R_kgDOISFjNg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOISFjNs4CUJyb"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>

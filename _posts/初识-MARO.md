@@ -69,6 +69,22 @@ pip install pymaro
 	- Simulation toolkit：它提供了一些预定义的场景，以及用于构建新场景的可重用轮子
 	- RL toolkit：它为 RL 提供了全栈抽象，例如代理管理器、代理、RL 算法、学习器、参与者和各种塑造者
 	- Distributed toolkit：提供分布式通信组件、消息自动处理、集群配置、作业编排等用户定义功能的接口
+    
+<script src="https://giscus.app/client.js"
+        data-repo="HCY-ASLEEP/HCY-ASLEEP.github.io"
+        data-repo-id="R_kgDOISFjNg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOISFjNs4CUJyb"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
 
 <br/>
 <h3>
@@ -76,3 +92,6 @@ pip install pymaro
 NEXT : {% post_link MARO-Distibuted-toolkit MARO Distibuted toolkit %}
 </div>
 </h3>
+
+
+

@@ -322,6 +322,24 @@ tags:
 			        pass
 			```
 
+
+<script src="https://giscus.app/client.js"
+        data-repo="HCY-ASLEEP/HCY-ASLEEP.github.io"
+        data-repo-id="R_kgDOISFjNg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOISFjNs4CUJyb"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
 	
 
 <br/>
@@ -334,3 +352,8 @@ PRE : {% post_link 初识-MARO 初识 MARO %}
 NEXT : {% post_link MARO-VM-调度 MARO VM 调度%}
 </span>
 </h3>
+
+
+
+
+
