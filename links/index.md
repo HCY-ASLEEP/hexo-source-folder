@@ -21,7 +21,7 @@ type: "links"
 
 <a href="https://scutvk.cn">
 <div align="left"><div style="width: 60%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent black transparent transparent; border-width: 10px; position: absolute; top: 10px; left: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent white transparent transparent; border-width: 10px; position: absolute; top: 10px; left: -19px;"></span>
-Viking : 玩转Pytorch-> 
+Viking : 玩转Pytorch -> 
 </div></div><br/>
 </a>
 
