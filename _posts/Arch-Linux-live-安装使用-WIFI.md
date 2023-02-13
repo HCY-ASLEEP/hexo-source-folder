@@ -18,8 +18,8 @@ tags:
 - 默认是关闭的状态，需要先开启它，而开启它之前还需要先激活它(即取消禁用，我这台机器默认是blockeded，禁用的)
 
     ```bash
-    rfkill unblock wifi    #取消禁用wifi设备
-    ip link set wlan0 up # 开启wlan0
+    rfkill unblock wifi    # 取消禁用wifi设备
+    ip link set wlan0 up   # 开启wlan0
     ```
 
 - 输入iwctl进入交互式提示符（interactive prompt），配置并连接到互联网
@@ -35,18 +35,3 @@ tags:
 - ping百度可以ping通，就说明已经连接上了互联网
 
 
-<script src="https://giscus.app/client.js"
-        data-repo="HCY-ASLEEP/HCY-ASLEEP.github.io"
-        data-repo-id="R_kgDOISFjNg"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOISFjNs4CUJyb"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>

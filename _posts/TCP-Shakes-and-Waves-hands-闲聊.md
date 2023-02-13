@@ -445,19 +445,3 @@ TCP三次握手的过程其实就是在：确认通信双方（客户端和服�
 </div></div><br/>
 
 
-
-<script src="https://giscus.app/client.js"
-        data-repo="HCY-ASLEEP/HCY-ASLEEP.github.io"
-        data-repo-id="R_kgDOISFjNg"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOISFjNs4CUJyb"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>

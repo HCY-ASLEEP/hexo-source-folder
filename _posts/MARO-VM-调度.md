@@ -264,22 +264,6 @@ print(f"[Random] Topology: azure.2019.10k. Total ticks: 8638. Start tick: 0")
 print(metrics)
 ```
 
-<script src="https://giscus.app/client.js"
-        data-repo="HCY-ASLEEP/HCY-ASLEEP.github.io"
-        data-repo-id="R_kgDOISFjNg"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOISFjNs4CUJyb"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
-
 
 
 
