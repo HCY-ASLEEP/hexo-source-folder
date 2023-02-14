@@ -46,5 +46,9 @@ categories: 生活
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/griddle_braised_rice.jpg"><div align="center">烤盘饭</div></div>
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/lanzhou_beef_noodles.jpg"><div align="center">兰州牛肉面</div></div>
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/gongcha_pancake_1.jpg"><div align="center">贡茶手抓饼+1</div></div>
-  <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/gongcha_pancake_1.jpg"><div align="center">黑椒鸭扒饭</div></div>
+  <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/hall_duck_8.jpg"><div align="center">黑椒鸭扒饭</div></div>
+  <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/eggtar.jpg"><div align="center">亲手做的蛋挞</div></div>
+  <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/eggtar_1.jpg"><div align="center">亲手做的蛋挞+1</div></div>
+  <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/chashao.jpg"><div align="center">旺角叉烧饭</div></div>
+  <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/tea_cake.jpg"><div align="center">饭堂小吃</div></div>
 </div>
