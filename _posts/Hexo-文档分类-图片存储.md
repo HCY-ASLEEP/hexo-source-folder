@@ -1,7 +1,7 @@
 ---
 title: Hexo 文档分类 图片存储
 date: 2022-10-23 19:16:39
-categories: Hexo-Usage
+categories: IT
 tags:
 	- Hexo
 ---

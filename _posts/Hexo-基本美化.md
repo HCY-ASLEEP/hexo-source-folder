@@ -1,7 +1,7 @@
 ---
 title: Hexo 基本美化
 date: 2022-10-23 16:08:56
-categories: Hexo-Usage
+categories: IT
 tags:
 	- Hexo
 ---

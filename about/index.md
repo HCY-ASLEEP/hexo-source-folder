@@ -18,19 +18,19 @@ border-bottom: 2px solid gray;
 
 <div class="about_horizontal_arrangement">
   <div>
-    <img src="/pictures/About/transparent.svg" alt="about" style="width:100%">
+    <img src="/pictures/About/transparent.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/transparent.svg" alt="about" style="width:100%">
+    <img src="/pictures/About/transparent.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/linux.svg" alt="about" style="width:100%">
+    <img src="/pictures/About/linux.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/transparent.svg" alt="about" style="width:100%">
+    <img src="/pictures/About/transparent.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/transparent.svg" alt="about" style="width:100%">
+    <img src="/pictures/About/transparent.svg" style="width:100%">
   </div>
 </div>
 
@@ -42,24 +42,24 @@ border-bottom: 2px solid gray;
 
 <div class="about_horizontal_arrangement">
   <div>
-    <img src="/pictures/About/arch.svg" alt="about" style="width:100%">
+    <img src="/pictures/About/arch.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/debian.svg" alt="about" style="width:100%">
+    <img src="/pictures/About/debian.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/git.svg" alt="about" style="width:100%">
+    <img src="/pictures/About/git.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/hexo.svg" alt="about" style="width:100%">
+    <img src="/pictures/About/hexo.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/neovim.svg" alt="about" style="width:100%">
+    <img src="/pictures/About/neovim.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/podman.svg" alt="about" style="width:100%">
+    <img src="/pictures/About/podman.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/ubuntu.svg" alt="about" style="width:100%">
+    <img src="/pictures/About/ubuntu.svg" style="width:100%">
   </div>
 </div>
