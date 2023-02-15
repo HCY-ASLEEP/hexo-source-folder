@@ -12,7 +12,6 @@ tags:
 ##### 直接上我的 markdown 源码就好了
 
 ```markdown
-
 <style>
 .blog_photo_album_grid {
   -webkit-column-count: 3;
@@ -41,8 +40,6 @@ tags:
   box-shadow: 3px 3px 3px #f0f0f0;
 }
 </style>
-
-
 
 <div class="blog_photo_album_grid">
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/doge.svg"><h5 align="center">Hey, bro?</h5></div>
