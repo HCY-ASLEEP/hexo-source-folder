@@ -45,14 +45,16 @@ tag:
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/brine_duck.jpg"><div align="center">教工餐厅卤鸭</div></div>
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/hall_chick_8.jpg"><div align="center">咖喱鸡扒饭</div></div>
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/gongcha_pancake.jpg"><div align="center">贡茶手抓饼</div></div>
-  <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/griddle_braised_rice.jpg"><div align="center">烤盘饭</div></div>
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/lanzhou_beef_noodles.jpg"><div align="center">兰州牛肉面</div></div>
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/gongcha_pancake_1.jpg"><div align="center">贡茶手抓饼+1</div></div>
-  <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/hall_duck_8.jpg"><div align="center">黑椒鸭扒饭</div></div>
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/eggtar.jpg"><div align="center">亲手做的蛋挞</div></div>
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/eggtar_1.jpg"><div align="center">亲手做的蛋挞+1</div></div>
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/chashao.jpg"><div align="center">旺角叉烧饭</div></div>
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/tea_cake.jpg"><div align="center">饭堂小吃</div></div>
+  <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/zhujiaofan.jpg"><div align="center">潮记猪脚饭</div></div>
+  <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/luosifen.jpg"><div align="center">螺蛳粉</div></div>
+  <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/griddle_braised_rice.jpg"><div align="center">烤盘饭</div></div>
+  <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/galiniurou.jpg"><div align="center">咖喱牛肉饭</div></div>
 </div>
 
 
