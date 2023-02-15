@@ -3,6 +3,8 @@ title: 饭是力
 date: 2023-02-14 12:43:35
 description: 因为和 npy 异地，所以遇到好吃的都会拍下来发给对方（doge
 categories: 生活
+tag:
+    - 食
 ---
 
 
@@ -52,3 +54,6 @@ categories: 生活
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/chashao.jpg"><div align="center">旺角叉烧饭</div></div>
   <div class="blog_photo_album_block"><img src="/pictures/photo_album/eat/tea_cake.jpg"><div align="center">饭堂小吃</div></div>
 </div>
+
+
+<br/>
