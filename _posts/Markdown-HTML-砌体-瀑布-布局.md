@@ -57,4 +57,6 @@ tags:
 </div>
 ```
 
-效果可以参考 👉 **{% post_link photo-album-eating "饭是力🤪" %}**
+效果可以参考👇
+
+![](/pictures/photo_album/eat/xiaoguotu.png)

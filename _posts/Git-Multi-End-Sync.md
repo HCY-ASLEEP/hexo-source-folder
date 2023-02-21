@@ -73,5 +73,21 @@ tags:
     - 这种方式可以不用额外建立本地分支
 
 
+4. git push
 
+    - 强制提交本地分支覆盖远程分支
+    
+        ```bash
+        # git push origin --force <branch_name>
+        git push --force origin main
+        ```
 
+5. git fetch + reset + pull
+
+    - 放弃修改，强制覆盖本地代码
+    
+        ```bash
+        git fetch --all
+        git reset --hard origin/main    # origin 是远端的意思
+        git pull
+        ```

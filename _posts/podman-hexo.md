@@ -14,6 +14,7 @@ tags:
     ```
 - 只需要把 source 文件夹暴露出来给 host 就行了
 
+
 - 为了多端同步，推送不用 "hexo d" ， 而是手动将 public 下的内容推到 github.io 那里
 
 
