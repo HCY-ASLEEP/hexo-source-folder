@@ -76,7 +76,7 @@ B+树相对于B树而言，它又有两种特性
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-54a18a07f7adfbda09983b815a92c5b8_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-54a18a07f7adfbda09983b815a92c5b8_r.jpg"/>
 </div></div><br/>
 
  
@@ -154,7 +154,7 @@ SQL都订单ID索引，但在订单ID的索引树的叶子节点只有orderId和
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-2393680d1df54c696f97c8194b34237c_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-2393680d1df54c696f97c8194b34237c_r.jpg"/>
 </div></div><br/>
 
  
@@ -202,7 +202,7 @@ SQL都订单ID索引，但在订单ID的索引树的叶子节点只有orderId和
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-6d6af5c6cfe9be27d1f41af4d7860d3a_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-6d6af5c6cfe9be27d1f41af4d7860d3a_r.jpg"/>
 </div></div><br/>
 
  
@@ -250,7 +250,7 @@ OK…
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-ca51dbec74c22029ebde0650378dfbfd_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-ca51dbec74c22029ebde0650378dfbfd_r.jpg"/>
 </div></div><br/>
 
  

@@ -8,10 +8,10 @@ tags:
 
 - Markdown 编写的 Hexo 博客文章内部跳转，比如说想在文章1中的某个段落内部超链接跳转到文章2
 
-
     ```markdown
-    {% post_link 文章文件名(不要后缀) 文章标题(可选) %}
+    {% post_link 文章文件名(不要后缀) 文章标题(可选) %}   
     ```
+    
 - 如文章文件名为 Hello-World.md
 
     ```markdown
@@ -21,7 +21,7 @@ tags:
 
 - 如果想做到这样子的效果
 
-    <img src="/pictures/Hexo-Inner-Link/2022.11.23.20.17.03.png"/>
+    ![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/2022.11.23.20.17.03.png)
     
     ```html
     <br/>
@@ -37,7 +37,9 @@ tags:
     ```
 
 - 单纯的右边
-    <img src="/pictures/Hexo-Inner-Link/2022.11.23.20.15.53.png"/>
+
+    ![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/2022.11.23.20.15.53.png)
+    
     ```html
     <br/>
     <h3>

@@ -7,7 +7,7 @@ tags:
 ---
 
 ### 1. 只有左右框
-<img src="/pictures/markdown-对话框/2022.11.05.21.09.58.png"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/2022.11.05.21.09.58.png"/>
 
 
 
@@ -35,7 +35,7 @@ tags:
 <br/>
 
 ### 2. 带有箭头的左右框
-<img src="/pictures/markdown-对话框/2022.11.07.17.19.38.png"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/2022.11.07.17.19.38.png"/>
 
 <br/>
 

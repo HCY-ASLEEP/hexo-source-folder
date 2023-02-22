@@ -18,7 +18,7 @@ npm install hexo-theme-next
 #### 切换到 Next 主题
 在你的博客顶层工程目录下打开 "_config.yml"
 
-<img src="/pictures/hexo-next-theme-美化/2022.10.26.13.24.11.png"/>
+![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/2022.10.26.13.24.11.png)
 
 搜索themes，将里面的值改为next
 

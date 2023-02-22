@@ -42,7 +42,7 @@ tags:
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-3ebaa5e83396dabab44bc9d6371a384b_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-3ebaa5e83396dabab44bc9d6371a384b_r.jpg"/>
 </div></div><br/>
 
 
@@ -79,7 +79,7 @@ tags:
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-8fd6ccf7a2ef047768f34992bd1c7c30_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-8fd6ccf7a2ef047768f34992bd1c7c30_r.jpg"/>
 </div></div><br/>
 
  
@@ -121,7 +121,7 @@ tags:
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-12c1d8d4396bb7d0383f72b5eb4d77d6_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-12c1d8d4396bb7d0383f72b5eb4d77d6_r.jpg"/>
 </div></div><br/>
 
  
@@ -163,7 +163,7 @@ redo log 是顺序写的，写入速度很快。并且它记录的是物理修�
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-2325a411c8f9da2e8c5f83367d913793_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-2325a411c8f9da2e8c5f83367d913793_r.jpg"/>
 </div></div><br/>
 
  
@@ -181,7 +181,7 @@ redo log 是顺序写的，写入速度很快。并且它记录的是物理修�
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-e5c89083071510afe2afd6e6dc337efa_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-e5c89083071510afe2afd6e6dc337efa_r.jpg"/>
 </div></div><br/>
 
  
@@ -235,7 +235,7 @@ redo log 是顺序写的，写入速度很快。并且它记录的是物理修�
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-4ed4e54af979a73c24db83133be59359_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-4ed4e54af979a73c24db83133be59359_r.jpg"/>
 </div></div><br/>
 
  
@@ -271,7 +271,7 @@ redo log 是顺序写的，写入速度很快。并且它记录的是物理修�
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-6792ec868544bf39078b7e9255ff4f53_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-6792ec868544bf39078b7e9255ff4f53_r.jpg"/>
 </div></div><br/>
 
  
@@ -295,7 +295,7 @@ redo log 是顺序写的，写入速度很快。并且它记录的是物理修�
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-7e397fcccc1d5dc2a519b45bf36d334f_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-7e397fcccc1d5dc2a519b45bf36d334f_r.jpg"/>
 </div></div><br/>
 
  
@@ -326,7 +326,7 @@ MVCC通过生成数据快照（Snapshot)，并用这个快照来提供一定级�
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-93fe1254a1c756b4ec092e44a2c6de12_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-93fe1254a1c756b4ec092e44a2c6de12_r.jpg"/>
 </div></div><br/>
 
  
@@ -374,7 +374,7 @@ repeatable read (可重复复读)隔离级别是「事务级别」的快照！�
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-7e397fcccc1d5dc2a519b45bf36d334f_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-7e397fcccc1d5dc2a519b45bf36d334f_r.jpg"/>
 </div></div><br/>
 
  
@@ -416,7 +416,7 @@ MVCC的主要是通过read view和undo log来实现的
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-cc344b44fe34fc54ec6c9e2f28a4aa2d_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-cc344b44fe34fc54ec6c9e2f28a4aa2d_r.jpg"/>
 </div></div><br/>
 
  

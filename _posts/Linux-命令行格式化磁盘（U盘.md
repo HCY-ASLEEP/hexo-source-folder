@@ -9,7 +9,7 @@ tags:
 
 - 在插入 U盘 之前，先查看有哪些磁盘
 
-    <img src="../pictures/Linux 命令行格式化/2022.11.17.16.36.19.png"/>
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/2022.11.17.16.36.19.png"/>
 
     - 可以看到加粗的有两行，第一行开头是 "Disk" ，第二行开头是 "Device"
     - 整个输出只有一行加粗的 "Disk" ，表示目前只有一个硬盘
@@ -20,7 +20,7 @@ tags:
 
 - 在插入 U盘 之后，再查看有哪些磁盘
 
-    <img src="../pictures/Linux 命令行格式化/2022.11.17.16.39.41.png"/>
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/2022.11.17.16.39.41.png"/>
     
     - 发现多了一行加粗的 "Disk"
     - 这个正是我们插入的 U盘

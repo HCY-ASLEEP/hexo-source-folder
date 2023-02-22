@@ -15,7 +15,7 @@ tags:
 		- 第二个是 repositioning，使用 MARO 重定位空集装箱，平衡全球空集装箱分布。
 ######
 
-![](/pictures/初识MARO/cim.container_flow.svg)
+![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/cim.container_flow.svg)
 
 - ##### 对上面这个流程图的解释
 	- 托运人（shipper）生成订单（send order）后，相应源端口（source port）的空容器将被释放（release empty）给托运人（shipper）
@@ -34,14 +34,14 @@ tags:
 	- 虽然以进口为导向的港口具有显著的盈余特征，但通常从收货人那里收到许多空集装箱，因此，如果存在空闲容量，面向进口的港口将倾向于将多余的空集装箱装入船舶
 ######
 - #### 简单拓扑结构
-![](/pictures/初识MARO/cim.toys.svg)
+![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/cim.toys.svg)
 - ##### 这里要特别注意上面这个图里面，这里的 S 和 D 并不是 source 和 destination，而是 empty containers 的 supplier 和 demander，这里 order 也并不是货物订单，而是 empty containers 的订单
 - ##### 上图实线表示货物流向，虚线表示订单流向，S 与 D 由订单（Order）决定，订单发起方为 D，订单收到方为 S
 	- **拓扑（1）** 有四个 port ，D1 和 D2 是简单的需求者（需要额外 empty container 的端口），而 S2 是简单的供应商（具有剩余空容器的端口），尽管 S1 是一个简单的目标端口，但它位于两个服务路由的交点，这使其成为此拓扑中的特殊端口，为了实现全局最优，S1 必须学会区分服务路由并执行特定于服务路由的重新定位操作
 	- **拓扑（2）** 中有五个端口，根据订单，D1 和 D2 是简单的需求者，而 S1 和 S2 是简单的供应商，作为服务航线交汇处的港口，T1港口虽然可以达到自平衡状态，但仍对全局最优起着重要作用，T1 的最佳重新定位策略是将多余的空容器从左侧服务路由转移到右侧服务路由，此外，D1 和 D2 应该学会只卸载它们需要的 empty 数量，并将多余的 empty 留给其他端口
 	- **拓扑（3）** 中有六个端口，简单的需求者 D1 和 D2 ，简单的供应商 S1 和 S2 ，以及自平衡端口 T1 和 T2 ，比拓扑（2）更困难的是，应该采取更多的转移来将多余的空集装箱从最左边的服务路线重新定位到最右边的航线，这意味着需要一个涉及更多港口的多步骤解决方案
 ######
-![](/pictures/初识MARO/cim.global_trade.svg)
+![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/cim.global_trade.svg)
 - 这是基于真实世界数据设计的拓扑,大多数港口不再具有简单的供需功能。港口之间的合作要复杂得多，很难手动找到有效的重新定位策略
 ######
 - #### 入门
@@ -64,7 +64,7 @@ pip install pymaro
 	- action_type（操作类型）：在此操作中是装载还是卸载空容器
 	- 数量（int）：要装载/卸载的空容器的（非负）数量
 ######
-![](/pictures/初识MARO/maro_overview.svg)
+![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/maro_overview.svg)
 - #### 上图是 MARO 框架图
 	- Simulation toolkit：它提供了一些预定义的场景，以及用于构建新场景的可重用轮子
 	- RL toolkit：它为 RL 提供了全栈抽象，例如代理管理器、代理、RL 算法、学习器、参与者和各种塑造者

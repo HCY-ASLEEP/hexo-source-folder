@@ -31,7 +31,7 @@ tags:
 	```
 5. 重新生成静态网页，可以看到导航栏多了一个分类选项
 
-![](/pictures/hexo-文档分类-图片存储/2022.10.23.19.31.09.png)
+![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/2022.10.23.19.31.09.png)
 
 ######   
 
@@ -75,7 +75,7 @@ tags:
 6. 重新生成静态网页，可以看到导航栏多了一个标签选项
 ###### 
 
-![](/pictures/hexo-文档分类-图片存储/2022.10.23.19.50.12.png)
+![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/2022.10.23.19.50.12.png)
 
 **文档里面插入图片**
 
@@ -84,7 +84,7 @@ tags:
 
 1. 在 Hexo 的目录（也就是顶层工程目录） source 中创建一个图片文件夹，例如 pictures
 
-![](/pictures/hexo-文档分类-图片存储/2022.10.23.19.55.54.png)
+![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/2022.10.23.19.55.54.png)
 
 ######  
 2. 把要插入的图片文件放到该目录下面，在文档中正常使用 markdown 的语法插入图片即可，例如
@@ -95,7 +95,7 @@ tags:
 
 3. 当然，你还可以在 pictures 再创建目录以区分不同文章的图片
 
-![](/pictures/hexo-文档分类-图片存储/2022.10.23.20.00.11.png)
+![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/2022.10.23.20.00.11.png)
 
 4. 这个时候在文章里面引用的方式就是
 
@@ -105,7 +105,7 @@ tags:
 
 记住在 "pictures" 前面有一个 "/" ，表示根目录的意思，因为对于 hexo 来说它的资源文件的根目录就是 source ，当然也可以修改 "_config.yml" 改变这个配置，下图是 hexo 框架文件夹描述
 
-![](/pictures/hexo-文档分类-图片存储/20191220164252492.png)
+![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/20191220164252492.png)
 
 
 

@@ -17,8 +17,8 @@ tags:
 
 只需要在 KDE Config 里面开启 Virtual Keyboard 就行了
 
-![](/pictures/Arch-KDE-Fctix5-Alacritty/image.png)
+![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/arch-kde-fcitx5-image-1.png)
 
 然后就可以愉快地享受 alacritty 啦
 
-![](/pictures/Arch-KDE-Fctix5-Alacritty/image-3.png)
+![](https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/arch-kde-fcitx5-image-2.png)

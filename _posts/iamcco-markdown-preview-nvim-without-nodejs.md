@@ -1,5 +1,5 @@
 ---
-title: Vim > iamcco/markdown-preview.nvim without nodejs
+title: Vim => iamcco/markdown-preview.nvim without nodejs
 date: 2023-02-21 11:33:20
 description: 安装离线版本
 tags:

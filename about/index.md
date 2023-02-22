@@ -18,19 +18,19 @@ border-bottom: 2px solid gray;
 
 <div class="about_horizontal_arrangement">
   <div>
-    <img src="/pictures/About/transparent.svg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/transparent.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/transparent.svg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/transparent.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/linux.svg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/linux.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/transparent.svg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/transparent.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/transparent.svg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/transparent.svg" style="width:100%">
   </div>
 </div>
 
@@ -42,24 +42,24 @@ border-bottom: 2px solid gray;
 
 <div class="about_horizontal_arrangement">
   <div>
-    <img src="/pictures/About/arch.svg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/arch.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/debian.svg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/debian.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/git.svg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/git.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/hexo.svg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/hexo.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/neovim.svg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/neovim.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/podman.svg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/podman.svg" style="width:100%">
   </div>
   <div>
-    <img src="/pictures/About/ubuntu.svg" style="width:100%">
+    <img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/ubuntu.svg" style="width:100%">
   </div>
 </div>

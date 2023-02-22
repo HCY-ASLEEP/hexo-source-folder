@@ -9,7 +9,7 @@ tags:
 
 腾讯会议不支持 Wayland
 
-<img src="/pictures/wayland-wemeet/2022-04-19-13-25-31屏幕截图.png"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/2022-04-19-13-25-31屏幕截图.png"/>
 
 
 ###### 

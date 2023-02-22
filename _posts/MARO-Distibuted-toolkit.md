@@ -6,13 +6,13 @@ tags:
 ---
 ### MARO 三层框架<!--more-->
 
-<img src="/pictures/maro-distributed-toolkit/maro_overview.svg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/maro_overview.svg"/>
 
-###### 
+</br> 
 
 #### 接下来展示的是第三层 Distibuted toolkit
 
-<img src="/pictures/maro-distributed-toolkit/overview.svg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/overview.svg"/>
 
 - MARO Distibuted Toolkit 遵循 message-passing 模式，即不同组件之间的协作基于消息**发送**和**接收**
 - 典型的 **master/worker** 分布式程序通常包含以下步骤
@@ -21,16 +21,16 @@ tags:
 	- worker 将在其本地计算环境或本地设备中完成任务
 	- worker 将计算结果返回到 master
 
-<img src="/pictures/maro-distributed-toolkit/v2-b5f0db269480aceb6590007f8ad9dfe8_r.jpg" style="zoom:40%"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-b5f0db269480aceb6590007f8ad9dfe8_r.jpg" style="zoom:40%"/>
 
 	
 - 根据实际需要，主控组件和工作组件之间的通信方式可以是同步的，也可以是异步的
 
-###### 
+</br> 
 
 #### 关键部件
 
-<img src="/pictures/maro-distributed-toolkit/key_components.svg"/> 
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/key_components.svg"/> 
 
 - ##### Comunication
 
@@ -42,113 +42,128 @@ tags:
 			- broadcast
 			- scatter 
 			
-		###### 
+		</br> 
 		- 通信组件使用**可替换**的通信协议驱动程序来适应不同的通信协议栈
 			
 			- TCP/IP
 			- InfiniBand
 		
-		###### 
+		</br> 
 		- Peer Discovering
 		
 		- 部分故障恢复
 		
 		- 条件事件自动调度
 
-	###### 
+	</br> 
 
 	- #####  Proxy 
 		
-		<img src="/pictures/maro-distributed-toolkit/proxy.svg"/>
+		<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/proxy.svg"/>
 
-		###### 
+		</br> 
 		
 		- Proxy 提供通信原语的实现，是通信操作接口，是通信组件的主要实体
 		- Proxy 默认使用 ZeroMQ 框架
 		- Proxy 为基于 Redis 的 peer discovering 提供支持
 		- 分布式通信原语常见操作如下
 		
-			###### 
+			</br> 
 			
 			- **Broadcast**
 
-				<img src="/pictures/maro-distributed-toolkit/v2-c9aa7762a6ec00d370c58de183441362_r.jpg"/>
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-c9aa7762a6ec00d370c58de183441362_r.jpg"/>
 
+                </br>
 
-				<img src="/pictures/maro-distributed-toolkit/v2-1ff295f93679ebe9a03ad510259ead8b_r.jpg"/>
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-1ff295f93679ebe9a03ad510259ead8b_r.jpg"/>
 
-			######
-			###### 
-			###### 
+			</br>
+			</br> 
+			</br> 
 			
 			- **Scatter**
 
-				<img src="/pictures/maro-distributed-toolkit/v2-be03c436a4f699aa001deb4490f33813_r.jpg"/>
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-be03c436a4f699aa001deb4490f33813_r.jpg"/>
 
-				<img src="/pictures/maro-distributed-toolkit/v2-f17bd118677f919e255d5b1689fc66dc_r.jpg"/>
+                </br>
+                
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-f17bd118677f919e255d5b1689fc66dc_r.jpg"/>
+                
 
-			###### 
-			###### 
-			###### 
+			</br> 
+			</br> 
+			</br> 
 
 			- **Reduce (强调聚合之后处理)**
 
+                </br>
 
-				<img src="/pictures/maro-distributed-toolkit/v2-466054a11a994842eb1b062b13b9bde3_r.png"/>
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-466054a11a994842eb1b062b13b9bde3_r.png"/>
 
+                </br>
 				
-				<img src="/pictures/maro-distributed-toolkit/v2-c7bdad601780f9798a62c2dfb1bbef4d_r.jpg"/>
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-c7bdad601780f9798a62c2dfb1bbef4d_r.jpg"/>
 
+                </br>
 
-			###### 
-			###### 
-			###### 
+			</br> 
+			</br> 
+			</br> 
 
 			- **Gather (单纯聚合没有额外处理)**
 
-				<img src="/pictures/maro-distributed-toolkit/v2-3b2ec50810fc8d92971a4b7c0b800b1b_r.jpg"/>
+                </br>
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-3b2ec50810fc8d92971a4b7c0b800b1b_r.jpg"/>
 
-				<img src="/pictures/maro-distributed-toolkit/v2-dc3fcf248c39b4a76947bcea140840d1_720w.webp"/>
+                </br>
+                
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-dc3fcf248c39b4a76947bcea140840d1_720w.webp"/>
 
-			###### 
-			###### 
-			###### 
+                </br>
+			</br> 
+			</br> 
+			</br> 
 
 			- **All Reduce**
 			
-				<img src="/pictures/maro-distributed-toolkit/v2-0e90f4c9b66d42dfa41145d3b6a52361_r.jpg"/>
+                </br>
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-0e90f4c9b66d42dfa41145d3b6a52361_r.jpg"/>
 			
 			
-				<img src="/pictures/maro-distributed-toolkit/v2-80b1bd60a2fdefb19f792fdf193c6d76_r.jpg"/>
+                </br>
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-80b1bd60a2fdefb19f792fdf193c6d76_r.jpg"/>
 
-			###### 
-			###### 
-			###### 
+			</br> 
+			</br> 
+			</br> 
 
 			- **All Gather**
 
-				<img src="/pictures/maro-distributed-toolkit/v2-ce5261aec55090a1f9e9dd5233b22af9_r.jpg"/>
+                </br>
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-ce5261aec55090a1f9e9dd5233b22af9_r.jpg"/>
 
 				
-				<img src="/pictures/maro-distributed-toolkit/v2-831e0b04646c78f9e74bf4f29c35b8af_720w.webp"/>
+                </br>
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-831e0b04646c78f9e74bf4f29c35b8af_720w.webp"/>
 
-			###### 
-			###### 
-			###### 
+			</br> 
+			</br> 
+			</br> 
 
 			- **Reduce Scatter**
 
-				<img src="/pictures/maro-distributed-toolkit/v2-14cdd631faae00452885a116dd36737c_720w.webp"/>
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-14cdd631faae00452885a116dd36737c_720w.webp"/>
 
-			######
-			######
-			###### 
+			</br>
+			</br>
+			</br> 
 
 			- **All to All**
 			
-				<img src="/pictures/maro-distributed-toolkit/v2-945ffd7612632fa88ed2bc68ec832071_r.jpg"/>
+				<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-945ffd7612632fa88ed2bc68ec832071_r.jpg"/>
 
-	###### 
+	</br> 
 
 	- **Message**
 	
@@ -161,7 +176,7 @@ tags:
 			- session_id（自动生成）：特定会话的 UUID ，一个会话可能包含多条消息
 			- message_id（自动生成）：特定消息的 UUID
 			
-		###### 
+		</br> 
 	
 		- Example
 			
@@ -174,7 +189,8 @@ tags:
 			                  body="")
 			```
 	
-	###### 
+	</br> 
+    
 	- **Session Message**
 
 		- MARO 为常见的分布式场景提供了两种预定义的会话类型
@@ -188,7 +204,7 @@ tags:
 					- 一旦 worker 收到 task ，worker 就开始执行 task
 					- worker 将 computing result 返回给 master
 			
-			###### 
+			</br> 
 
 			- **Notification Session**
 			
@@ -198,7 +214,7 @@ tags:
 					- sender 发送 notification message
 					- receiver 接收 notification message
 		
-		###### 
+		</br> 
 
 		- session 的每个阶段由 proxy 在内部维护
 		- Example
@@ -218,7 +234,7 @@ tags:
 		                                      session_type=SessionType.NOTIFICATION)
 		``` 
 
-	###### 
+	</br> 
 
 	- ##### MARO 通信原语实际接口
 
@@ -232,17 +248,17 @@ tags:
 		- broadcast：阻塞，用于向所有订阅者广播消息，将监视并收集所有订阅者的回复消息
 		- ibroadcast：非阻塞版本的 broadcast ，相关 message session ID 将立即返回，可供 receive_by_id 使用
 
-	###### 
+	</br> 
 	
 	- ##### Conditional Event Register Table
 	
 		- 提供消息自动发送机制
 		- 通过将 conditional event 和相关的 handler function 注册到注册表中，当 conditional event 满足时，handler function 将与接收到的消息一起自动执行
 
-		###### 
-		<img src="/pictures/maro-distributed-toolkit/register_table.register.svg"/>
+		</br> 
+		<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/register_table.register.svg"/>
 		
-		###### 
+		</br> 
 
 		- conditional event 用于声明自动触发相关 handler function 所需的消息组
 		- unit event 是条件事件中的最小组件，声明格式分三段
@@ -275,7 +291,7 @@ tags:
 
 		- Handler function 是绑定到特定 conditional event 的用户定义的回调函数，当满足事件的条件时，相关消息将被发送到处理程序函数执行
 
-			<img src="/pictures/maro-distributed-toolkit/register_table.trigger.svg"/>
+			<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/register_table.trigger.svg"/>
 
 			```python
 			# A common handler function signature
@@ -291,7 +307,7 @@ tags:
 			    pass
 			```
 
-	###### 
+	</br> 
 
 	- ##### Distributed Decorator
 

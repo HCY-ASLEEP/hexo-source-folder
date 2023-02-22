@@ -51,7 +51,7 @@ tags:
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-adf9da0a7ab5845f85b8e487095f71ae_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-adf9da0a7ab5845f85b8e487095f71ae_r.jpg"/>
 </div></div><br/>
 
  
@@ -105,7 +105,7 @@ tags:
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-482ac758e3b5d1bb5e52407e52f44fb1_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-482ac758e3b5d1bb5e52407e52f44fb1_r.jpg"/>
 </div></div><br/>
 
  
@@ -153,7 +153,7 @@ binlog记录了数据库表结构和表数据「变更」，比如update/delete/
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-89983c3f82aef2f68bc720567f0d1980_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-89983c3f82aef2f68bc720567f0d1980_r.jpg"/>
 </div></div><br/>
 
 
@@ -256,7 +256,7 @@ MySQL->Elasticsearch需要有对应的同步程序(一般就是监听MySQL的bin
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-6a1dc5b0c6ee82fc7337006ff80b67ff_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-6a1dc5b0c6ee82fc7337006ff80b67ff_r.jpg"/>
 </div></div><br/>
 
  
@@ -292,7 +292,7 @@ MySQL->Elasticsearch需要有对应的同步程序(一般就是监听MySQL的bin
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-68894ad64aceece371fe98507a6d4232_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-68894ad64aceece371fe98507a6d4232_r.jpg"/>
 </div></div><br/>
 
  
@@ -334,7 +334,7 @@ MySQL->Elasticsearch需要有对应的同步程序(一般就是监听MySQL的bin
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-998aa34d5433837a585196f111bbf771_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-998aa34d5433837a585196f111bbf771_r.jpg"/>
 </div></div><br/>
 
  
@@ -370,7 +370,7 @@ MySQL->Elasticsearch需要有对应的同步程序(一般就是监听MySQL的bin
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-effeac74c8efb2b5c1627884b4ec8843_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-effeac74c8efb2b5c1627884b4ec8843_r.jpg"/>
 </div></div><br/>
 
  
@@ -430,7 +430,7 @@ MySQL->Elasticsearch需要有对应的同步程序(一般就是监听MySQL的bin
  
 
 <div align="right"><div style="width: 80%; border-style: solid; border-width: 1px; border-radius: 16px; position: relative; padding:30px; text-align:center"><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent black; border-width: 10px; position: absolute; top: 10px; right: -20px;"></span><span style="width: 0px; height: 0px; border-style: solid; border-color: transparent transparent transparent white; border-width: 10px; position: absolute; top: 10px; right: -19px"></span>
-<img src="/pictures/MySQL-闲谈/v2-546dffdeecd9c7dc2da98ad5867dfc4c_r.jpg"/>
+<img src="https://raw.githubusercontent.com/HCY-ASLEEP/picture-bed/main/picture-bed/v2-546dffdeecd9c7dc2da98ad5867dfc4c_r.jpg"/>
 </div></div><br/>
 
  

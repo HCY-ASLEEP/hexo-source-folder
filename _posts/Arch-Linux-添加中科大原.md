@@ -1,7 +1,7 @@
 ---
 title: Arch Linux 添加中科大原
 date: 2023-02-21 06:04:15
-description: 还国内源
+description: 换国内源
 tags:
     - Arch
     - Linux
